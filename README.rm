@@ -1,0 +1,17 @@
+# CS410Assignment3
+CS410 Assignment3
+
+This is a class Assignment for Software Engineering CS 410
+Requirements:
+
+1.	Identify at least 4 “code smells” you found in the source code by indicating the line number/ code block and the type of code smell. Remember to start with the worst smell.
+2.	Refactor the code. Make changes to the code to be more readable, maintainable and scalable enough to add new operations to the application. Please provide a log for your updates with your reasoning. You don’t need to write every detail, but make sure you provide a list of refactoring practices you applied.
+Ex:
+Line #: changed the variable from ______ to ____, because ___________.
+I created a new class _______, because ___________.
+3.	Add these new features:
+•	Add open file feature to the file menu to be able to open an existing file.
+•	Add open recent feature to the file menu. Open recent can show a list for the last 5 files opened in the right order, most recent in the top of the list.
+•	Add simple-replace to the edit menu. This will replace a highlighted text with the clipboard content/a user input.
+
+
