@@ -17,7 +17,8 @@ I created a new class _______, because ___________.
 Changes Implemented:
 
 Added seperate class called FileSystem
-This class controls the filechooser menu and retrieving files. This cleans up the code a bit
+This class controls the filechooser menu and retrieving files. This cleans up the code a bit and also launchers when Open is selected 
+in the menu and retrieves the file. Also in filechooser set filter to allow for only files and not directories.
 
 Modified Menu Item Names to reflect understandable names. changed ambiguous names to more understandable names
 
