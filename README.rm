@@ -14,6 +14,21 @@ I created a new class _______, because ___________.
 •	Add open recent feature to the file menu. Open recent can show a list for the last 5 files opened in the right order, most recent in the top of the list.
 •	Add simple-replace to the edit menu. This will replace a highlighted text with the clipboard content/a user input.
 
+Changes Implemented:
+
+Added seperate class called FileSystem
+This class controls the filechooser menu and retrieving files. This cleans up the code a bit and also launchers when Open is selected 
+in the menu and retrieves the file. Also in filechooser set filter to allow for only files and not directories.
+
+Modified Menu Item Names to reflect understandable names. changed ambiguous names to more understandable names
+
+Modified Menu Layouts for creating menus to clean up the code more
+
+Refactored  unnneccessary spaces and fixed indentation to line up with curly braces
+
+added replace menu command to create new dialog and add new textcomponent. set actionevent to respond to Replace item being clicked.
+The highlighted text in the Jtextpane can then be replaced with the text the user inputs
+
 
 
 
